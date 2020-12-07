@@ -6,7 +6,7 @@ Answers to inline questions have been intentionally omitted.
     - k-Nearest Neighbor classifier [knn.ipynb](assignment1/knn.ipynb)
     - Training a Support Vector Machine [svm.ipynb](assignment1/svm.ipynb)
     - Implement a Softmax classifier [softmax.ipynb](assignment1/softmax.ipynb)
-    - Two-Layer Neural Network [neural_net.ipynb](assignment1/neural_net.ipynb)
+    - Two-Layer Neural Network [two_layer_net.ipynb](assignment1/two_layer_net.ipynb)
     - Higher Level Representations: Image Features [features.ipynb](assignment1/features.ipynb)
 - [assignment2](https://cs231n.github.io/assignments2019/assignment2/)
     - Fully-connected Neural Network [FullyConnectedNets.ipynb](assignment2/FullyConnectedNets.ipynb)
